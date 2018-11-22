@@ -13,6 +13,6 @@
   This project is written in Python 3.
   
 ## Todo
-  - [] separate main from rand
-  - [] Giver should not be able to have the same reciver as their giver 
-  - [] 
+- [] separate main from rand
+- [] Giver should not be able to have the same reciver as their giver 
+- [] 
